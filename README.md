@@ -1,8 +1,8 @@
 ### Hi there Hope your doing great👋
-Passionate newcomer diving into the world of DevOps, Cloud Engineering, OpenShift, and System Administration. Armed with a strong foundation, a knack for quick learning, and a commitment to excellence.
+Passionate newcomer diving into the world of DevOps, Cloud Engineering. Armed with a strong foundation, a knack for quick learning, and a commitment to excellence.
 ==
 
-🚀 Currently expanding expertise in AWS, OpenShift, and DevOps tools.
+🚀 Currently expanding expertise in AWS and DevOps tools.
 🌱 Actively learning techniques to optimize cloud infrastructure and elevate CI/CD workflows.
 🤝 Eager to collaborate on projects harnessing cloud tech for scalable and efficient solutions.
 
