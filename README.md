@@ -3,7 +3,9 @@ Passionate newcomer diving into the world of DevOps, Cloud Engineering. Armed wi
 ==
 
 🚀 Currently expanding expertise in AWS and DevOps tools.
+
 🌱 Actively learning techniques to optimize cloud infrastructure and elevate CI/CD workflows.
+
 🤝 Eager to collaborate on projects harnessing cloud tech for scalable and efficient solutions.
 
 💬 Ask me about AWS services, DevOps best practices, or anything related to cloud and automation.
