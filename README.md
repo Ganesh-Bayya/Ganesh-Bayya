@@ -8,7 +8,7 @@ Passionate newcomer diving into the world of DevOps, Cloud Engineering. Armed wi
 
 💬 Ask me about AWS services, DevOps best practices, or anything related to cloud and automation.
 
-📧 Reach me at ganeshb4040@gmail.com or connect on LinkedIn: (https://www.linkedin.com/in/ganesh-b-0529b028a/)
+📧 Reach me at ganeshb4040@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/ganesh-b-0529b028a/
 
 ⚡ Fun fact: I find joy in automating tasks to simplify life! Let's connect and explore the boundless possibilities of cloud and DevOps together! 😄
 
